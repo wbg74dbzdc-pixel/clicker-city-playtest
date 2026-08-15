@@ -1,0 +1,15 @@
+CLICKER CITY
+Copyright (c) 2026 Benjamin Rivera. All rights reserved.
+
+
+Clicker City, including its code, design, text, artwork and audio, is the
+property of Benjamin Rivera.
+
+This build is shared for private playtesting only. No license is granted to
+copy, redistribute, modify, reverse engineer, or create derivative works from
+it, and no rights are waived by it having been made available for download.
+Please do not pass it on to anyone else without asking first.
+
+The Godot Engine is included in this download and is the work of its own
+authors under its own license. See THIRD-PARTY.txt. That license covers the
+engine only and confers no rights over Clicker City.
