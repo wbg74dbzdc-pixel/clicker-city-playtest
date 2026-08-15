@@ -2,14 +2,60 @@ CLICKER CITY
 Copyright (c) 2026 Benjamin Rivera. All rights reserved.
 
 
-Clicker City, including its code, design, text, artwork and audio, is the
-property of Benjamin Rivera.
+1. OWNERSHIP
 
-This build is shared for private playtesting only. No license is granted to
-copy, redistribute, modify, reverse engineer, or create derivative works from
-it, and no rights are waived by it having been made available for download.
-Please do not pass it on to anyone else without asking first.
+Clicker City -- including its source code, design, systems, written text,
+artwork, audio, and the name "Clicker City" -- is the exclusive property of
+Benjamin Rivera, who is its sole owner and author.
 
-The Godot Engine is included in this download and is the work of its own
-authors under its own license. See THIRD-PARTY.txt. That license covers the
-engine only and confers no rights over Clicker City.
+All rights are reserved. No rights are granted except those stated in
+section 2 below, and no right is waived by this build having been made
+available for download, shared privately, or hosted publicly.
+
+
+2. WHAT YOU MAY DO
+
+This build is lent to you for private playtesting only. You may install it
+and play it on machines you control, and give feedback on it.
+
+That is all. Specifically, you may NOT:
+
+  - copy, share, upload, publish or redistribute it, in whole or in part
+  - sell, rent, license or otherwise commercialize it
+  - modify it, or create derivative works from it
+  - reverse engineer, decompile or disassemble it, except where that right
+    cannot lawfully be excluded
+  - remove, obscure or alter this notice or any other notice in this package
+  - use it, or anything in it, to train a machine learning model
+
+If you want to show it to somebody else, please ask first.
+
+
+3. NO WARRANTY
+
+This is unfinished software provided "as is", without warranty of any kind,
+express or implied, including but not limited to the implied warranties of
+merchantability, fitness for a particular purpose and non-infringement. It
+is known to be incomplete and to contain faults.
+
+
+4. LIMITATION OF LIABILITY
+
+To the fullest extent permitted by law, Benjamin Rivera shall not be liable
+for any claim, damages, data loss, or other liability, whether in contract,
+tort or otherwise, arising from or in connection with this software or its
+use. You install and run it at your own risk.
+
+
+5. THIRD-PARTY SOFTWARE
+
+A copy of the Godot Engine, which is other people's software under its own
+separate license, is included in this download. See THIRD-PARTY.txt. That
+license applies to the engine alone. It grants no rights over Clicker City,
+and its authors claim no ownership of Clicker City.
+
+
+6. CONTACT
+
+For permission to do anything not allowed above, ask the owner. Silence is
+not permission.
