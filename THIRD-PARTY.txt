@@ -1,0 +1,54 @@
+THIRD-PARTY NOTICES
+===================
+
+READ THIS FIRST, BEFORE THE LICENSE TEXT BELOW.
+
+Clicker City is copyright (c) 2026 Benjamin Rivera. All rights reserved.
+It is NOT open source. It is NOT free to share. See COPYRIGHT.txt.
+
+This file exists only because a copy of the Godot Engine -- a separate piece
+of software, written by other people -- is included in this download. Godot's
+license requires its notice to travel with it. That is all this file is.
+
+  *  The license text below applies ONLY to the Godot Engine.
+  *  Where that text says "the Software", it means THE GODOT ENGINE.
+     It does NOT mean Clicker City.
+  *  Nothing below grants you any right whatsoever to copy, share, modify,
+     publish or sell Clicker City.
+  *  Godot's authors do not own Clicker City and claim nothing over it.
+     Godot places no claim of any kind on games made with it.
+
+In short: the permissions below are Godot's authors granting rights to their
+own engine. They are not, and cannot be, a grant of rights to this game.
+
+
+-------------------------------------------------------------------------
+THE GODOT ENGINE (https://godotengine.org) -- MIT license
+Applies to the engine only, not to Clicker City.
+-------------------------------------------------------------------------
+
+  Copyright (c) 2014-present Godot Engine contributors.
+  Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+
+  Permission is hereby granted, free of charge, to any person obtaining a
+  copy of this software and associated documentation files (the "Software"),
+  to deal in the Software without restriction, including without limitation
+  the rights to use, copy, modify, merge, publish, distribute, sublicense,
+  and/or sell copies of the Software, and to permit persons to whom the
+  Software is furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+  DEALINGS IN THE SOFTWARE.
+
+-------------------------------------------------------------------------
+End of third-party notices. Clicker City itself remains
+copyright (c) 2026 Benjamin Rivera, all rights reserved.
+-------------------------------------------------------------------------
